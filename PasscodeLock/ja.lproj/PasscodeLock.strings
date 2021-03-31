@@ -1,0 +1,32 @@
+/* 
+  PasscodeLock.strings
+  PasscodeLock
+
+  Created by Devonly on 3/31/21.
+  
+*/
+/* Enter Passcode State */
+"PasscodeLockEnterTitle" = "パスコード入力";
+"PasscodeLockEnterDescription" = "パスコードを入力して進めてください.";
+
+/* Set Passcode State */
+"PasscodeLockSetTitle" = "パスコード入力";
+"PasscodeLockSetDescription" = "パスコードを入力してください.";
+
+/* Confirm Passcode State */
+"PasscodeLockConfirmTitle" = "パスコード確認";
+"PasscodeLockConfirmDescription" = "もう一度パスコードを入力してください.";
+
+/* Change Passcode State */
+"PasscodeLockChangeTitle" = "古いパスコードを入力";
+"PasscodeLockChangeDescription" = "古いパスコードを入力してください.";
+
+/* Passcode Mismatch State */
+"PasscodeLockMismatchTitle" = "もう一度パスコードを入力してください";
+"PasscodeLockMismatchDescription" = "パスコードが一致しません";
+
+/* Touch ID Reason */
+"PasscodeLockTouchIDReason" = "生体認証をして進めてください";
+
+/* Touch ID Fallback Button */
+"PasscodeLockTouchIDButton" = "パスコードを入力";
